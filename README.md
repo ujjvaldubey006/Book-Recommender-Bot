@@ -8,7 +8,7 @@ Screenshot:
 ![image alt](https://github.com/ujjvaldubey006/Book-Recommender-Bot/blob/main/BookBot.png)
 
 🚀 Live Demo
-🔗 [Add your live site link here if deployed](https://ujjvaldubey006.github.io/Book-Recommender-Bot/)
+🔗 [live site link here](https://ujjvaldubey006.github.io/Book-Recommender-Bot/)
 
 
 💡 Features
